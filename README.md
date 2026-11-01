@@ -45,6 +45,10 @@ Each day, yesterday's sheet tears away and today's appears.
 
 ---
 
-<p align="center">
-  <sub>Currently learning: JavaScript, Git and accessible interface design.</sub>
-</p>
+## Currently learning
+
+> Exploring a wide range of tools and techniques to create better, more accessible web experiences.
+
+- <img src="https://img.shields.io/badge/JavaScript-E8D44D?style=for-the-badge&logo=javascript&logoColor=242424" alt="JavaScript">
+- <img src="https://img.shields.io/badge/Git-E87550?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+- <img src="https://img.shields.io/badge/Accessible_Design-A78BCE?style=for-the-badge&logo=accessibility&logoColor=white" alt="Accessible Design">
